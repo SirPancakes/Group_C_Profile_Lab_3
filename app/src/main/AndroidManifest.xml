@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.GroupCProfileLab3">
-        <activity android:name=".ProfileJohnReyActivity"></activity>
+        <activity android:name=".DaniyalProfileActivity"></activity>
+        <activity android:name=".ProfileDanielActivity" />
+        <activity android:name=".ProfileMohitActivity" />
+        <activity android:name=".ProfileJohnReyActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
