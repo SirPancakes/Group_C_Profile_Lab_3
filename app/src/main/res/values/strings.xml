@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Group C Profile - Lab 3</string>
+    <string name="group_c_profile_viewer">Group C Profile Viewer</string>
+    <string name="john_rey">John Rey</string>
+    <string name="daniyal">Daniyal</string>
+    <string name="mohit">Mohit</string>
+    <string name="daniel">Daniel</string>
+    <string name="press_a_button_to_view_their_profile">Press a button to view their profile!</string>
+</resources>
