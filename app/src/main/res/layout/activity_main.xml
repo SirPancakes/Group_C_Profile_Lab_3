@@ -51,6 +51,7 @@
         android:layout_height="80dp"
         android:layout_marginStart="60dp"
         android:layout_marginTop="72dp"
+            android:onClick="goToProfile_Mohit"
         android:text="@string/mohit"
         android:textSize="18sp"
         android:textStyle="bold"
