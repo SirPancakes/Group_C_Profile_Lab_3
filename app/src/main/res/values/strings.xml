@@ -6,4 +6,12 @@
     <string name="mohit">Mohit</string>
     <string name="daniel">Daniel</string>
     <string name="press_a_button_to_view_their_profile">Press a button to view their profile!</string>
+    <string name="daniyal_satybaldin">Daniyal Satybaldin</string>
+    <string name="likes_art_games_tea_sweets"><![CDATA[Likes: Art, Games, Tea & Sweets]]></string>
+    <string name="bachelor_of_computing_science">Bachelor of Computing Science</string>
+    <string name="daniyal_satybaldin">Daniyal Satybaldin</string>
+    <string name="picture">Picture</string>
+    <string name="hates_horrors">Hates: Horrors</string>
+    <string name="comment_coding_is_fun_and_all_but_getting_money_from_it_is_even_better">Comment: Coding is fun and all, but getting money from it is even better</string>
+    <string name="mergin_business_and_programming">Mergin Business and Programming</string>
 </resources>
