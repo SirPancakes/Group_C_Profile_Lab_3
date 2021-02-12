@@ -38,6 +38,7 @@
         android:layout_height="80dp"
         android:layout_marginTop="80dp"
         android:layout_marginEnd="60dp"
+        android:onClick="goToProfile_Daniyal"
         android:text="@string/daniyal"
         android:textSize="18sp"
         android:textStyle="bold"
